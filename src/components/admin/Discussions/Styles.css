@@ -1,0 +1,44 @@
+.bubble {
+    max-width: 70%;
+    width: max-content;
+    padding: 0.5% 1%;
+    border-radius: 5px;
+}
+
+.sender {
+    width: max-content;
+    padding: 0.5% 0%;
+    border-radius: 5px;
+}
+
+.sender-self {
+    margin-left: auto;
+}
+
+.sender-other {
+    margin-right: auto;
+}
+
+.self {
+    margin-left: auto;
+    color: black;
+    background: #6cf090;
+}
+
+.other {
+    color: black;
+    margin-right: auto;
+    background: lightgray;
+}
+
+.admin {
+    background: purple;
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.s-admin {
+    font-weight: bold;
+    font-style: italic;
+}
